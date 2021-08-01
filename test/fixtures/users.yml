@@ -1,0 +1,8 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  is_active: 1
+  email: "example1@abc.com"
+  name: "my string1"
+  encrypted_password: "password"
+  role: "admin"
