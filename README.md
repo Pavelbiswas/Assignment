@@ -29,7 +29,7 @@
  * `bundle exec rails s`
 
 
-# And now you can visit the site with the URL http://localhost:3000
+And you can visit the site with the URL http://localhost:3000 now.
 
 # To configure smtp 
  * Add username and password in environment file
