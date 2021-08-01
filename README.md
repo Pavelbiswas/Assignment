@@ -6,7 +6,7 @@
  * postgresql
 
 # 1. Check out the repository
-  `git clone https://github.com/sadhvi23/rails-property-app.git`
+  `https://github.com/Pavelbiswas/Assignment.git`
 
 # 2. Create database.yml file
   * `cp config/database.yml.sample` `config/database.yml`
